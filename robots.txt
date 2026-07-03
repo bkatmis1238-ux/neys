@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /config/
+Disallow: /functions/
+Disallow: /database/
+Disallow: /api/
+
+Sitemap: https://www.neysgrupinsaat.com/sitemap.php
